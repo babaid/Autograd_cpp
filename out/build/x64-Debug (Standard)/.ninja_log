@@ -1,0 +1,17 @@
+# ninja log v5
+5	286	629856976	Autograd++/CMakeFiles/Autograd++.dir/src/main.cpp.obj	f0b65b77ea1ca372
+1	286	629856976	Autograd++/CMakeFiles/Autograd++.dir/src/Autograd++.cpp.obj	bd3bbb83d40ef68d
+8	474	629856976	Autograd++/CMakeFiles/Autograd++.dir/src/test.cpp.obj	8808abdb437899f5
+475	3727	629856976	Autograd++/Autograd++.exe	ec06969e9547058
+9	592	629859308	Autograd++/CMakeFiles/Autograd++.dir/src/test.cpp.obj	8808abdb437899f5
+1	688	629859366	Autograd++/CMakeFiles/Autograd++.dir/src/test.cpp.obj	8808abdb437899f5
+5	694	629859366	Autograd++/CMakeFiles/Autograd++.dir/src/DualNumber.cpp.obj	1cf2deb93a9a8f1a
+694	6205	629859367	Autograd++/Autograd++.exe	13b584f902b375bd
+9	929	629862943	Autograd++/CMakeFiles/Autograd++.dir/src/DualMath.cpp.obj	f86544e17c94df61
+5	930	629862943	Autograd++/CMakeFiles/Autograd++.dir/src/test.cpp.obj	8808abdb437899f5
+0	932	629862943	Autograd++/CMakeFiles/Autograd++.dir/src/DualNumber.cpp.obj	1cf2deb93a9a8f1a
+933	3957	629862943	Autograd++/Autograd++.exe	1befe4077f43d861
+0	411	629862968	Autograd++/CMakeFiles/Autograd++.dir/src/test.cpp.obj	8808abdb437899f5
+411	1054	629862968	Autograd++/Autograd++.exe	1befe4077f43d861
+1	554	629863004	Autograd++/CMakeFiles/Autograd++.dir/src/test.cpp.obj	8808abdb437899f5
+554	1237	629863004	Autograd++/Autograd++.exe	1befe4077f43d861
